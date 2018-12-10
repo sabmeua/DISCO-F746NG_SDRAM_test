@@ -1,2 +1,5 @@
 BUILD
 mbed_settings.pyc
+GettingStarted.html
+Makefile
+mbed_config.h
